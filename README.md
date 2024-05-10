@@ -2,7 +2,7 @@
 
 Welcome to my corner of the GitHub universe! I'm passionate about building innovative solutions with the MERN (MongoDB, Express.js, React, Node.js) stack. If you're here, you're in for a treat - buckle up and let's dive into the world of creative coding together!
 
-## 🚀 What I Do
+## 🚀 Here's what I'm passionate about:
 
 - 🌱 Currently mastering MERN stack development.
 - 💡 Constantly exploring new technologies and frameworks.
