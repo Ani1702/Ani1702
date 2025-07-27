@@ -22,7 +22,7 @@ Here's a glimpse of the tools and technologies I work with:
 Reach out to me on these platforms:
 
 - LinkedIn: www.linkedin.com/in/aniruddhaneema
-- Portfolio: https://aniruddha-neema.onrender.com/
+- Portfolio: https://aniruddha-portfolio-three.vercel.app/
 
 ## 🎨 Let's Collaborate
 
